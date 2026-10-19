@@ -1,6 +1,6 @@
 # DreamRec profile sync results
 
-Last run: 2026-10-19T01:39:31.659562+00:00
+Last run: 2026-10-19T06:47:38.503512+00:00
 
 | Profile | Status | Detail |
 |---|---|---|
